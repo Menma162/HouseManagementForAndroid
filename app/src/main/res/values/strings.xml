@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">HouseManagement</string>
+    <string name="hint_personName">Имя пользователя</string>
+    <string name="hint_password">Пароль</string>
+    <string name="bnt_back">←</string>
+    <string name="open">Открыть</string>
+    <string name="close">Закрыть</string>
+    <string name="edit_text_full_name">ФИО</string>
+    <string name="edit_text_date_of_registration">Дата регистрации</string>
+    <string name="edit_text_number_of_family_members">Количество членов семьи</string>
+    <string name="edit_text_phone_number">Номер телефона</string>
+    <string name="email">Email</string>
+    <string name="edit_text_flat_number">Номер квартиры</string>
+    <string name="edit_text_personal_account">Лицевой счет</string>
+    <string name="edit_text_total_area">Полная площадь</string>
+    <string name="edit_text_usable_area">Полезная площадь</string>
+    <string name="edit_text_entrance_number">Номер подъезда</string>
+    <string name="edit_text_number_rooms">Количество комнат</string>
+    <string name="edit_text_residents">Количество зарегистрированных жителей</string>
+    <string name="edit_text_owners">Количество владельцев жилья</string>
+    <string-array name="typesCounter">
+        <item>Счетчик холодной воды</item>
+        <item>Счетчик горячей воды</item>
+        <item>Счетчик электрической энергии</item>
+        <item>Газовый счетчик</item>
+        <item>Счетчик отопления</item>
+    </string-array>
+    <string-array name="typesCounterFilter">
+        <item></item>
+        <item>Счетчик холодной воды</item>
+        <item>Счетчик горячей воды</item>
+        <item>Счетчик электрической энергии</item>
+        <item>Газовый счетчик</item>
+        <item>Счетчик отопления</item>
+    </string-array>
+    <string-array name="typesCounterUsed">
+        <item></item>
+        <item>Да</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="services">
+        <item></item>
+        <item>Холодная вода</item>
+        <item>Горячая вода</item>
+        <item>Газ</item>
+        <item>Электрическая энергия</item>
+        <item>Тепловая энергия</item>
+    </string-array>
+</resources>

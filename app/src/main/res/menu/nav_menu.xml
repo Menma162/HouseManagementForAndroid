@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeItem"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Главная"
+        />
+    <item
+        android:id="@+id/tenantsItem"
+        android:icon="@drawable/tenants"
+        android:title="Квартиросъемщики"
+        />
+    <item
+        android:id="@+id/flatsItem"
+        android:icon="@drawable/flat"
+        android:title="Квартиры"
+        />
+    <item
+        android:id="@+id/сountersItem"
+        android:icon="@drawable/meter"
+        android:title="Счетчики"
+        />
+    <item
+        android:id="@+id/indicationsItem"
+        android:icon="@drawable/indications"
+        android:title="Показания"
+        />
+    <item
+        android:id="@+id/ratesItem"
+        android:icon="@drawable/calculate"
+        android:title="Тарифы и нормативы"
+        />
+    <item
+        android:id="@+id/paymentsItem"
+        android:icon="@drawable/money"
+        android:title="Начисления"
+        />
+    <item
+        android:id="@+id/accountItem"
+        android:icon="@drawable/account"
+        android:title="Аккаунт"
+        />
+</menu>
